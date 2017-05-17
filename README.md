@@ -17,6 +17,7 @@ workflow.
 
 | Name          | Description   | From which opam package? |
 | ------------- | ------------- | --------------- |
+| `rtop`        | Interactive Reason interpreter for your terminal | reason |
 | `ocamlmerlin`      | This is the (OCaml-specific) tool which gives you autocompletion & compiler errors in your editor | merlin |
 | `ocamlmerlin-reason` | This is a bridge to make `merlin` understand the reason syntax             | reason |
 | `refmt`       | This is the reformatter for pretty-printing reason-code | reason |
