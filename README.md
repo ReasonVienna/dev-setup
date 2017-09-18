@@ -67,8 +67,8 @@ eval $(opam config env)
 Since we now have the correct compiler installed, we can now install all required `opam` packages:
 
 ``` bash
-opam install reason
-opam install merlin
+opam install reason.1.13.7
+opam install merlin.2.5.4
 ```
 
 Let's check if everything is set up correctly:
