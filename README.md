@@ -134,7 +134,7 @@ everything up, in case someone else needs to work on the same machine.
 Of course, feel free to use whatever editor you want. You can check
 out the
 official
-[Editor Integration Section](https://facebook.github.io/reason/tools.html#editor-integration) for
+[Editor Plugins](https://reasonml.github.io/guide/editor-tools/editors-plugins#officially-supported-editors) section for
 your target editor.
 
 
