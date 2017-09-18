@@ -89,8 +89,8 @@ rebuild hello.native # Automatically generates hello.native from hello.re
 You probably noticed that we didn't install anything JavaScript related yet, right?
 Maybe you also know that there are two specific workflows described on the offical Reason website:
 
-* [jsWorkflow](https://facebook.github.io/reason/jsWorkflow.html)
-* [nativeWorkflow](https://facebook.github.io/reason/nativeWorkflow.html#native-workflow)
+* [jsWorkflow](https://reasonml.github.io/guide/javascript/quickstart)
+* [nativeWorkflow](https://reasonml.github.io/guide/native/quickstart)
 
 For now, we installed all the tools we need for our editor integration & for building native OCaml applications.
 To build JavaScript, you need to use the BuckleScript platform, which is installed via `npm`.
