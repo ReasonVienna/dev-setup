@@ -76,7 +76,7 @@ Let's check if everything is set up correctly:
 ``` bash
 which ocamlmerlin refmt ocamlmerlin-reason
 
-echo 'print_string "hello!"' > hello.re
+echo 'print_string "hello!\n";' > hello.re
 
 # rebuild is another binary exposed by the Reason package
 rebuild hello.native # Automatically generates hello.native from hello.re
